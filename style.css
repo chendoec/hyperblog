@@ -8,24 +8,17 @@ body {
 }
 .container {
     position: relative;
-    padding: 1rem;
     border: 1px solid #333 ;
     width: 500px;
     overflow: hidden;
+    box-shadow: 1px 1px 7px rgb(0, 0, 0);
 }
 .main {
-    margin-top: 30px;
     padding-top: .5em;
 }
 .cabecera {
     background-color: yellowgreen;
     color: #333;
-    width: 100%;
-    position: absolute;
-    height: 30px;
-    top: 0;
-    right: 0;
-    left: 0;
     padding: .5em;
     font-size: 1.5em;
 }
