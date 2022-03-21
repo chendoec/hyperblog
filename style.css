@@ -21,10 +21,10 @@ body {
     background-color: yellowgreen;
     color: #333;
     padding: 0 .5em;
-    font-size: 1.5em;
+    font-size: 1.1em;
+    height: 70px;
 }
 #logo {
     width: 30px;
     vertical-align: middle;
-    padding-right: .3em;
 }
