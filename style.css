@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    color: #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container {
+    position: relative;
+    padding: 1rem;
+    border: 1px solid #333 ;
+    width: 500px;
+    overflow: hidden;
+}
+.main {
+    margin-top: 30px;
+    padding-top: .5em;
+}
+.cabecera {
+    background-color: yellowgreen;
+    color: #333;
+    width: 100%;
+    position: absolute;
+    height: 30px;
+    top: 0;
+    right: 0;
+    left: 0;
+    padding: .5em;
+    font-size: 1.5em;
+}
